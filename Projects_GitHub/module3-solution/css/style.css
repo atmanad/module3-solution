@@ -1,0 +1,17 @@
+.bg-gray {
+  background-color: rgb(146, 146, 146);
+}
+
+.navbar-brand {
+  font-weight: 700;
+  font-size: 28px;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: black !important;
+}
+
+.nav-item {
+  border: 0.5px solid black;
+}
